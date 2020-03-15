@@ -11,16 +11,16 @@
     "generate": "nuxt-ts generate"
   },
   "dependencies": {
-    "@nuxt/typescript-runtime": "^0.4.0",
-    "@nuxtjs/dotenv": "^1.4.0",
-    "@nuxtjs/pwa": "^3.0.0-0",
-    "axios": "^0.19.2",
-    "firebase": "^7.11.0",
-    "nuxt": "^2.6.3",
-    "nuxt-buefy": "^0.3.2"
+    "@nuxt/typescript-runtime": "0.4.0",
+    "@nuxtjs/dotenv": "1.4.1",
+    "@nuxtjs/pwa": "3.0.0-beta.20",
+    "axios": "0.19.2",
+    "firebase": "7.11.0",
+    "nuxt": "2.11.0",
+    "nuxt-buefy": "0.3.24"
   },
   "devDependencies": {
-    "@nuxt/typescript-build": "^0.6.0",
-    "prettier": "^1.19.1"
+    "@nuxt/typescript-build": "0.6.0",
+    "prettier": "1.19.1"
   }
 }
