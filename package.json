@@ -5,16 +5,22 @@
   "author": "",
   "private": true,
   "scripts": {
-    "dev": "nuxt",
-    "build": "nuxt build",
-    "start": "nuxt start",
-    "generate": "nuxt generate"
+    "dev": "nuxt-ts",
+    "build": "nuxt-ts build",
+    "start": "nuxt-ts start",
+    "generate": "nuxt-ts generate"
   },
   "dependencies": {
-    "nuxt": "^2.0.0",
-    "nuxt-buefy": "^0.3.2",
+    "@nuxt/typescript-runtime": "^0.4.0",
+    "@nuxtjs/dotenv": "^1.4.0",
     "@nuxtjs/pwa": "^3.0.0-0",
-    "@nuxtjs/dotenv": "^1.4.0"
+    "axios": "^0.19.2",
+    "firebase": "^7.11.0",
+    "nuxt": "^2.6.3",
+    "nuxt-buefy": "^0.3.2"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "@nuxt/typescript-build": "^0.6.0",
+    "prettier": "^1.19.1"
+  }
 }
