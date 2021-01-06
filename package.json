@@ -14,7 +14,7 @@
     "@nuxt/typescript-runtime": "0.4.6",
     "@nuxtjs/dotenv": "1.4.1",
     "@nuxtjs/pwa": "3.0.0-beta.20",
-    "axios": "0.19.2",
+    "axios": "0.21.1",
     "firebase": "7.14.2",
     "nuxt": "2.12.2",
     "nuxt-buefy": "0.3.28"
