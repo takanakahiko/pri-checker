@@ -17,7 +17,7 @@
     "axios": "0.19.2",
     "firebase": "7.14.2",
     "nuxt": "2.12.2",
-    "nuxt-buefy": "0.3.28"
+    "nuxt-buefy": "0.4.7"
   },
   "devDependencies": {
     "@nuxt/typescript-build": "0.6.6",
